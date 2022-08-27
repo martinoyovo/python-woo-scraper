@@ -4,7 +4,8 @@ Woocommerce sraper with Python by using : [https://www.fabellashop.com/categorie
 
 ### Get started
 
-```git clone https://github.com/martinoyovo/python-woo-scraper.git
+```
+git clone https://github.com/martinoyovo/python-woo-scraper.git
 ```
 
 ## Packages
