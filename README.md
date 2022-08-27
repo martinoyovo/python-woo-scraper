@@ -1,6 +1,6 @@
 # WOOCOMMERCE SCRAPER WITH PYTHON
 
-Woocommerce sraper with Python by using :
+Woocommerce Sraper with Python using :
 - [ ] [https://www.fabellashop.com/categorie-produit/maquillageongles/teint](https://www.fabellashop.com/categorie-produit/maquillageongles/teint)
 - [ ] [http://www.floatrates.com](http://www.floatrates.com)
 
