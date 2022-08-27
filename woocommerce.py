@@ -46,7 +46,7 @@ class WooCommerceScraper(object):
             
             price_with_curreny = price_with_curreny.text.split('\xa0')
             
-            price = float(price_with_curreny[0])
+            price = float(price_with_curreny[0].replace(".", ""))
             currency = price_with_curreny[-1]
         
             
