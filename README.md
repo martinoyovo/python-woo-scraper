@@ -26,4 +26,4 @@ python woocommerce.py
 ## Preview the Data
 ### [Click here to see the output data](https://github.com/martinoyovo/python-woo-scraper/blob/main/products_list.csv)
 
-![Preview Data](https://github.com/martinoyovo/python-woo-scraper/blob/main/products_list.csv)
+![Preview Data](https://github.com/martinoyovo/python-woo-scraper/blob/main/preview.png)
