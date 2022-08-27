@@ -24,6 +24,6 @@ python woocommerce.py
 ```
 
 ## Preview the Data
-### [Click here to see the output data](https://github.com/martinoyovo/python-woo-scraper/blob/main/preview.png)
+### [Click here to see the output data](https://github.com/martinoyovo/python-woo-scraper/blob/main/product_list.csv)
 
 ![Preview Data](https://github.com/martinoyovo/python-woo-scraper/blob/main/preview.png)
